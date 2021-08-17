@@ -1,0 +1,37 @@
+[
+    {
+        "userId": 1,
+        "username": "salom",
+        "password": "2f6e5bab8e61450ff9f6023b05906774",
+        "age": "45",
+        "gender": "85"
+    },
+    {
+        "userId": 2,
+        "username": "123",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "age": "123",
+        "gender": "123"
+    },
+    {
+        "userId": 3,
+        "username": "987",
+        "password": "ab233b682ec355648e7891e66c54191b",
+        "age": "1332",
+        "gender": "987"
+    },
+    {
+        "userId": 4,
+        "username": "qwe",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "age": "qwe",
+        "gender": "123"
+    },
+    {
+        "userId": 5,
+        "username": "suxrob",
+        "password": "b59c67bf196a4758191e42f76670ceba",
+        "age": "25",
+        "gender": "male"
+    }
+]
